@@ -1,0 +1,11 @@
+META DATA:
+200 (объем бочки)
+32 (текущий объем воды в бочке)
+2020-01-01Т12:51:32.124Z – [username1] - wanna top up 10l (успех)
+2020-01-01Т12:51:34.769Z – [username2] - wanna scoop 50l (фейл)
+2020-01-01Т14:51:32.124Z – [username3] - wanna top up 10l (успех)
+2020-01-01Т17:51:34.769Z – [username2] - wanna scoop 50l (фейл)
+2020-01-01Т22:51:32.124Z – [username4] - wanna top up 10l (успех)
+2020-01-01Т24:51:34.769Z – [username5] - wanna scoop 50l (фейл)
+2020-01-01Т11:51:32.124Z – [username6] - wanna top up 10l (успех)
+2020-01-01Т12:51:34.769Z – [username1] - wanna scoop 50l (фейл)
